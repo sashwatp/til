@@ -16,6 +16,7 @@ _926 TILs and counting..._
 ### Categories
 
 * [Ack](#ack)
+* [Bash](#bash)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -53,6 +54,9 @@ _926 TILs and counting..._
 - [ack --bar](ack/ack-bar.md)
 - [Case-Insensitive Search](ack/case-insensitive-search.md)
 - [List Available File Types](ack/list-available-file-types.md)
+
+### Bash
+- [Script to perform tasks on sub directories](bash/script-to-perform-tasks-on-sub-directories.md)
 
 ### Chrome
 
